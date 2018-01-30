@@ -1,0 +1,21 @@
+{
+    "playing": true,
+    "song": {
+        "title": "Man of War",
+        "artist": "Radiohead",
+        "album": "OK Computer OKNOTOK 1997 2017",
+        "albumArt": "https://lh3.googleusercontent.com/k2nPv9G_y-FcaxWDIjQL6yfWgehfDzAjbjbok0a9wUj20Ou0jWIPLboCH2F3758Ncc9mxn9g-w"
+    },
+    "rating": {
+        "liked": false,
+        "disliked": false
+    },
+    "time": {
+        "current": 87373,
+        "total": 269000
+    },
+    "songLyrics": "Drift all you like from ocean to ocean\nSearch the whole world\nBut drunken confessions and hijacked affairs\nWill just make you more alone\n\nWhen you come home I'll bake you a cake\nMade of all their eyes\nI wish you could see me dressed for the kill\n\nYou're my man of war\nYou're my man of war\nYeah, the worms will come for you, big boots\nYeah, yeah, yeah\n\nSo unplug the phones, stop all the taps\nIt all comes flooding back\nTo poison clouds and poisoned dwarves\n\nYou're my man of war\nYou're my man of war\nYeah, the worms will come for you, big boots\nYeah, the worms will come for you, big boots\nFor you, big boots",
+    "shuffle": "NO_SHUFFLE",
+    "repeat": "SINGLE_REPEAT",
+    "volume": 0
+}

@@ -1,0 +1,3 @@
+/home/bailey/workspace/cProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bailey/workspace/cProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bailey/workspace/cProjects/cmake-build-debug/CMakeFiles/cProjects.dir
