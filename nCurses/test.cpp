@@ -9,9 +9,8 @@ int main(int argc, char *argv[])
 	int startx, starty, width, height;
 	int ch;
 
-	initscr();			/* Start curses mode 		*/
-	cbreak();			/* Line buffering disabled, Pass on
-					 * everty thing to me 		*/
+	initscr();
+    cbreak();
 	keypad(stdscr, TRUE);		/* I need that nifty F1 	*/
 
 	height = 3;

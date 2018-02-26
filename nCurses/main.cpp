@@ -20,7 +20,7 @@ int main()
     for (int j = 0; j < 100; j++) {
         ch[j] = '|';
         mvprintw(row/2, 10, ch);
-        sleep(250000);
+        sleep(100000);
         refresh();
     }
 
