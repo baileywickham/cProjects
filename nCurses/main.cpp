@@ -8,6 +8,7 @@ void sleep(unsigned int mseconds);
 int main()
 {
     char ch[101];
+    ch[100] = '\0';
     int row, col;
     initscr();			/* Start curses mode 		*/
     raw();				/* Line buffering disabled	*/
